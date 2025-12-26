@@ -1,0 +1,2889 @@
+* {
+  box-sizing: border-box;
+}
+
+.homePage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 1440px;
+  height: 12606px;
+
+  .michaelCarter {
+    flex-shrink: 0;
+    align-self: stretch;
+    line-height: 32px;
+    letter-spacing: 0;
+    color: var(--White, #ffffff);
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  .author {
+    flex-shrink: 0;
+    align-self: stretch;
+    line-height: 20px;
+    letter-spacing: 0;
+    color: var(--White, #ffffff);
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+  }
+
+  .aboutUs {
+    flex-shrink: 0;
+    background: linear-gradient(
+      90deg,
+      #873ae3 0%,
+      #ef4476 42.83%,
+      #f57c3c 100%
+    );
+    background-clip: text;
+    line-height: 26px;
+    letter-spacing: 0;
+    color: transparent;
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    -webkit-background-clip: text;
+  }
+
+  .register {
+    flex-shrink: 0;
+    line-height: 24px;
+    letter-spacing: 0;
+    color: var(--Black, #070707);
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .english {
+    flex-shrink: 0;
+    line-height: 24px;
+    letter-spacing: 0;
+    color: var(--White, #ffffff);
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .oPtivis {
+    flex-shrink: 0;
+    line-height: 26px;
+    letter-spacing: 0;
+    color: #ffffff;
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .getStartedForFree {
+    flex-shrink: 0;
+    line-height: 26px;
+    letter-spacing: 0;
+    color: #ffffff;
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .interfaceEssentialSt {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+  }
+
+  .empoweringBusinesses2 {
+    line-height: 56px;
+    letter-spacing: 0;
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+  }
+
+  .empoweringBusinesses {
+    line-height: 56px;
+    letter-spacing: 0;
+    color: var(--White, #ffffff);
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+  }
+
+  .transparentPricingSc {
+    flex-shrink: 0;
+    align-self: stretch;
+    width: 824px;
+    text-align: center;
+    line-height: 56px;
+    letter-spacing: 0;
+    color: #000000;
+    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+  }
+
+  .businessProductsInte2 {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    column-gap: 4px;
+    border-radius: 12px;
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    background-image: linear-gradient(
+      207.21deg,
+      #ffffff 16.98%,
+      #394149 140.49%
+    );
+  }
+
+  .desktop1 {
+    display: flex;
+    position: relative;
+    flex-shrink: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    padding-top: 522px;
+    height: 1024px;
+    overflow: hidden;
+
+    .autoWrapper {
+      position: absolute;
+      top: -113px;
+      left: -119px;
+      width: 1730px;
+      height: 834px;
+
+      .vector3 {
+        position: absolute;
+        top: 0;
+        left: 914px;
+        width: 688px;
+        height: 561px;
+        filter: blur(58px);
+      }
+
+      .group367 {
+        display: flex;
+        position: absolute;
+        top: 152px;
+        left: 0;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 93px 69px 48px 52px;
+        width: 1730px;
+        height: 682px;
+        background-image: url(../image/mjjixc2j-kh6kd2g.svg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: drop-shadow(0px 4px 4px #00000040);
+
+        .frame18 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          align-self: stretch;
+          margin-right: 341px;
+          margin-left: 306px;
+          row-gap: 40px;
+
+          .frame4 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            row-gap: 24px;
+
+            .frame3 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 8px;
+              margin-right: 367px;
+              margin-left: 367px;
+              border: 1px solid var(--White, #ffffff);
+              border-radius: 56px;
+              background: #ffffff1f;
+              padding: 8px 12px;
+              overflow: hidden;
+              backdrop-filter: blur(2px);
+
+              .dataDrivenDecisions {
+                flex-shrink: 0;
+                line-height: 26px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 18px;
+              }
+            }
+
+            .frame2 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              row-gap: 40px;
+
+              .strategicConsultingT3 {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 962px;
+                text-align: center;
+                line-height: 72px;
+                letter-spacing: 0;
+                color: #000000;
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 64px;
+                font-weight: 600;
+
+                .strategicConsultingT {
+                  line-height: 72px;
+                  letter-spacing: 0;
+                  color: #ffffff;
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 64px;
+                  font-weight: 600;
+                }
+
+                .strategicConsultingT2 {
+                  line-height: 72px;
+                  letter-spacing: 0;
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 64px;
+                  font-weight: 600;
+                }
+              }
+
+              .unlockGrowthOptimize {
+                flex-shrink: 0;
+                width: 720px;
+                text-align: center;
+                line-height: 26px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 18px;
+              }
+            }
+          }
+
+          .frame82 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            column-gap: 32px;
+            margin-right: 232px;
+            margin-left: 232px;
+
+            .frame5 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              column-gap: 12px;
+              border-radius: 64px;
+              background: var(--Pinkeuu, #ef4476);
+              padding: 16px 20px;
+            }
+
+            .frame8 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: flex-end;
+              justify-content: center;
+              column-gap: 12px;
+              border-radius: 64px;
+              background: var(--White, #ffffff);
+              padding: 16px 20px;
+              width: 233px;
+
+              .learnMore {
+                flex-shrink: 0;
+                line-height: 26px;
+                letter-spacing: 0;
+                color: var(--Black, #070707);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 18px;
+                font-weight: 500;
+              }
+            }
+          }
+        }
+
+        .frame17 {
+          display: inline-flex;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 81px;
+          margin-top: 109px;
+
+          .logo {
+            flex-shrink: 0;
+            width: 176px;
+            height: 32px;
+            overflow: hidden;
+          }
+
+          .logo2 {
+            flex-shrink: 0;
+            width: 162px;
+            height: 32px;
+            overflow: hidden;
+          }
+
+          .logo3 {
+            flex-shrink: 0;
+            width: 174px;
+            height: 32px;
+            overflow: hidden;
+          }
+
+          .logo4 {
+            flex-shrink: 0;
+            width: 130px;
+            height: 32px;
+            overflow: hidden;
+          }
+
+          .logo5 {
+            flex-shrink: 0;
+            width: 143px;
+            height: 32px;
+            overflow: hidden;
+          }
+        }
+      }
+
+      .frame15 {
+        display: flex;
+        position: absolute;
+        top: 145px;
+        left: 199px;
+        align-items: center;
+        justify-content: space-between;
+        width: 1280px;
+        height: 40px;
+
+        .frame14 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          column-gap: 8px;
+          width: 459px;
+
+          .frame {
+            flex-shrink: 0;
+            border-radius: 75px;
+            width: 32px;
+            height: 32px;
+            overflow: hidden;
+          }
+        }
+
+        .frame13 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          column-gap: 40px;
+
+          .home {
+            flex-shrink: 0;
+            line-height: 24px;
+            letter-spacing: 0;
+            color: #ffffff;
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+          }
+
+          .frame1321315809 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: center;
+            column-gap: 4px;
+            border: 1px solid var(--White, #ffffff);
+            border-radius: 40px;
+            box-shadow: 0px 4px 4px 0px #00000040;
+            padding: 6px 24px;
+          }
+
+          .frame16 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            column-gap: 14px;
+
+            .group {
+              flex-shrink: 0;
+              width: 14px;
+              height: 14px;
+            }
+          }
+        }
+
+        .frame11 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          justify-content: flex-end;
+          column-gap: 14px;
+          width: 459px;
+
+          .frame9 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            column-gap: 8px;
+          }
+
+          .frame10 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: center;
+            column-gap: 4px;
+            border-radius: 40px;
+            background: var(--White, #ffffff);
+            padding: 8px 24px;
+          }
+        }
+      }
+    }
+
+    .autoWrapper4 {
+      display: flex;
+      position: relative;
+      align-items: flex-start;
+      align-self: stretch;
+      margin-left: -67px;
+
+      .autoWrapper2 {
+        position: relative;
+        margin-left: -67px;
+        width: 217px;
+        height: 502px;
+
+        .rectangle5 {
+          position: absolute;
+          top: 192px;
+          right: -25px;
+          border-radius: 12px;
+          background: #ffffff1f;
+          width: 334px;
+          height: 252px;
+        }
+
+        .rectangle465 {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 217px;
+          height: 502px;
+          background-image: linear-gradient(
+            87.97deg,
+            #070707 40.93%,
+            #07070700 84.42%
+          );
+        }
+      }
+
+      .teamOfSuccessfulBrok {
+        margin-top: 188px;
+        margin-left: 47px;
+        border-radius: 12px;
+        width: 334px;
+        height: 252px;
+      }
+
+      .multiethnicHappyComp {
+        margin-top: 188px;
+        margin-left: 20px;
+        border-radius: 12px;
+        width: 334px;
+        height: 252px;
+      }
+
+      .multiracialBusinessP {
+        margin-top: 188px;
+        margin-left: 23px;
+        border-radius: 12px;
+        width: 334px;
+        height: 252px;
+      }
+
+      .autoWrapper3 {
+        position: relative;
+        margin-top: 54px;
+        margin-left: 32px;
+        width: 217px;
+        height: 502px;
+
+        .rectangle4 {
+          position: absolute;
+          top: 134px;
+          right: -109px;
+          border-radius: 12px;
+          background: #ffffff1f;
+          width: 334px;
+          height: 252px;
+        }
+
+        .rectangle466 {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 217px;
+          height: 502px;
+          rotate: -180deg;
+          background-image: linear-gradient(
+            87.97deg,
+            #070707 40.93%,
+            #07070700 84.42%
+          );
+        }
+      }
+    }
+  }
+
+  .desktop8 {
+    position: relative;
+    flex-shrink: 0;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    height: 1072px;
+    overflow: hidden;
+
+    .vector4 {
+      position: absolute;
+      top: 312px;
+      left: -86px;
+      width: 688px;
+      height: 741px;
+      rotate: -162deg;
+      filter: blur(58px);
+    }
+
+    .frame1321315810 {
+      display: flex;
+      position: absolute;
+      top: 80px;
+      left: 80px;
+      flex-direction: column;
+      align-items: flex-start;
+      width: 1280px;
+      height: 912px;
+      row-gap: 24px;
+
+      .frame32 {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        column-gap: 8px;
+        margin-right: 1160px;
+        border-radius: 56px;
+        box-shadow: inset 0px 0px 4px 1px #ffffff24;
+        background: #ffffff1f;
+        padding: 8px 24px;
+        overflow: hidden;
+        backdrop-filter: blur(2px);
+      }
+
+      .frame27 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: flex-start;
+        align-self: stretch;
+        row-gap: 60px;
+
+        .empoweringBusinesses3 {
+          flex-shrink: 0;
+          width: 763px;
+          line-height: 56px;
+          letter-spacing: 0;
+          color: #000000;
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 48px;
+          font-weight: 600;
+        }
+
+        .frame26 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          column-gap: 60px;
+          width: 1284px;
+
+          .frame25 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            column-gap: 40px;
+
+            .frame24 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              justify-content: center;
+              row-gap: 40px;
+
+              .a01 {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 50px;
+                height: 198px;
+                line-height: 48px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 40px;
+                font-weight: 600;
+              }
+            }
+
+            .frame23 {
+              display: inline-flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              row-gap: 40px;
+
+              .strengtheningBusines {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 397px;
+                line-height: 24px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 16px;
+              }
+
+              .drivingBusinessExcel {
+                flex-shrink: 0;
+                align-self: stretch;
+                line-height: 40px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 32px;
+                font-weight: 500;
+              }
+
+              .frame20 {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                align-items: flex-start;
+                align-self: stretch;
+                padding-right: 24px;
+                padding-left: 24px;
+                row-gap: 24px;
+
+                .businessProductsInte {
+                  flex-shrink: 0;
+                  border-radius: 12px;
+                  width: 48px;
+                  height: 48px;
+                  overflow: hidden;
+                }
+
+                .frame19 {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  align-items: flex-start;
+                  align-self: stretch;
+                  row-gap: 14px;
+
+                  .weStriveToEmpowerBus {
+                    flex-shrink: 0;
+                    align-self: stretch;
+                    width: 419px;
+                    line-height: 24px;
+                    letter-spacing: 0;
+                    color: var(--White, #ffffff);
+                    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                  }
+                }
+              }
+
+              .frame21 {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-right: 22px;
+                padding-right: 24px;
+                padding-left: 24px;
+                row-gap: 24px;
+
+                .frame192 {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  align-items: flex-start;
+                  align-self: stretch;
+                  row-gap: 14px;
+
+                  .fosteringLongTermGro {
+                    flex-shrink: 0;
+                    line-height: 40px;
+                    letter-spacing: 0;
+                    color: var(--White, #ffffff);
+                    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                    font-size: 32px;
+                    font-weight: 500;
+                  }
+                }
+              }
+
+              .frame22 {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                align-items: flex-start;
+                align-self: stretch;
+                margin-right: 22px;
+                padding-right: 24px;
+                padding-left: 24px;
+                row-gap: 24px;
+
+                .frame193 {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  align-items: flex-start;
+                  align-self: stretch;
+                  row-gap: 14px;
+                }
+              }
+            }
+          }
+
+          .businessGroupPortrai {
+            flex-shrink: 0;
+            border-radius: 12px;
+            width: 663px;
+            height: 674px;
+          }
+        }
+      }
+    }
+  }
+
+  .desktop3 {
+    position: relative;
+    flex-shrink: 0;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    height: 1026px;
+    overflow: hidden;
+
+    .vector42 {
+      position: absolute;
+      top: 118px;
+      left: 658px;
+      width: 954px;
+      height: 1028px;
+      rotate: 21deg;
+      filter: blur(58px);
+    }
+
+    .frame1321315811 {
+      display: flex;
+      position: absolute;
+      top: 80px;
+      left: 80px;
+      flex-direction: column;
+      align-items: center;
+      width: 1281px;
+      height: 866px;
+      row-gap: 24px;
+
+      .frame33 {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        column-gap: 8px;
+        margin-right: 571px;
+        margin-left: 571px;
+        border-radius: 56px;
+        box-shadow: inset 0px 0px 4px 1px #ffffff24;
+        background: #ffffff1f;
+        padding: 8px 24px;
+        overflow: hidden;
+        backdrop-filter: blur(2px);
+      }
+
+      .frame36 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        row-gap: 60px;
+
+        .strategicSolutionsTo {
+          flex-shrink: 0;
+          width: 822px;
+          text-align: center;
+          line-height: 56px;
+          letter-spacing: 0;
+          color: #000000;
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 48px;
+          font-weight: 600;
+        }
+
+        .frame35 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          row-gap: 24px;
+
+          .frame29 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            justify-content: space-between;
+            border: 1px solid var(--White, #ffffff);
+            border-radius: 12px;
+            background: #ffffff38;
+            padding: 24px;
+            width: 411px;
+            min-width: 411px;
+            height: 302px;
+            backdrop-filter: blur(8px);
+          }
+
+          .frame332 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            column-gap: 24px;
+
+            .frame194 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              row-gap: 14px;
+
+              .marketResearchAnalys {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 363px;
+                line-height: 40px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 32px;
+                font-weight: 500;
+              }
+
+              .developDataDrivenStr {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 363px;
+                line-height: 24px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 16px;
+              }
+            }
+
+            .frame28 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              justify-content: space-between;
+              border: 1px solid var(--Abu-Stroke, #ebebeb);
+              border-radius: 12px;
+              background: #ffffff38;
+              padding: 24px;
+              width: 411px;
+              min-width: 411px;
+              height: 302px;
+              backdrop-filter: blur(8px);
+            }
+          }
+
+          .frame34 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            column-gap: 24px;
+            margin-right: 218px;
+            margin-left: 218px;
+          }
+        }
+      }
+    }
+  }
+
+  .desktop4 {
+    position: relative;
+    flex-shrink: 0;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    height: 1421px;
+    overflow: hidden;
+
+    .vector43 {
+      position: absolute;
+      top: 180px;
+      left: -124px;
+      width: 1239px;
+      height: 1335px;
+      rotate: -106deg;
+      filter: blur(58px);
+    }
+
+    .frame1321315812 {
+      display: flex;
+      position: absolute;
+      top: 80px;
+      left: 80px;
+      flex-direction: column;
+      align-items: flex-start;
+      width: 1280px;
+      height: 1261px;
+      row-gap: 24px;
+
+      .frame37 {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        column-gap: 8px;
+        margin-right: 1107px;
+        border-radius: 56px;
+        box-shadow: inset 0px 0px 4px 1px #ffffff24;
+        background: #ffffff1f;
+        padding: 8px 24px;
+        overflow: hidden;
+        backdrop-filter: blur(2px);
+      }
+
+      .frame47 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: flex-start;
+        align-self: stretch;
+        row-gap: 60px;
+
+        .frame45 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+
+          .expertSolutionsAndPr {
+            flex-shrink: 0;
+            width: 870px;
+            line-height: 56px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 48px;
+            font-weight: 600;
+          }
+
+          .frame52 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            justify-content: center;
+            column-gap: 12px;
+            border-radius: 64px;
+            background: var(--Pinkeuu, #ef4476);
+            padding: 16px 20px;
+            width: 200px;
+          }
+        }
+
+        .frame46 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          align-self: stretch;
+          row-gap: 24px;
+
+          .frame42 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            justify-content: space-between;
+            border: 1px solid var(--Abu-Stroke, #ebebeb);
+            border-radius: 24px;
+            background: #ffffff38;
+            padding: 24px;
+            backdrop-filter: blur(10px);
+
+            .aProvenExpertise {
+              flex-shrink: 0;
+              line-height: 26px;
+              letter-spacing: 0;
+              color: var(--White, #ffffff);
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 18px;
+              font-weight: 500;
+            }
+
+            .presentationMeetingO {
+              flex-shrink: 0;
+              border-radius: 12px;
+              width: 333px;
+              height: 277px;
+            }
+
+            .frame41 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              justify-content: space-between;
+              width: 601px;
+              min-width: 601px;
+              height: 277px;
+
+              .frame372 {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                align-items: flex-start;
+                align-self: stretch;
+                row-gap: 14px;
+
+                .expertConsultantsWit {
+                  flex-shrink: 0;
+                  width: 445px;
+                  line-height: 32px;
+                  letter-spacing: 0;
+                  color: var(--White, #ffffff);
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 24px;
+                  font-weight: 500;
+                }
+
+                .ourTeamOfSeasonedCon {
+                  flex-shrink: 0;
+                  width: 601px;
+                  line-height: 26px;
+                  letter-spacing: 0;
+                  color: var(--White, #ffffff);
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 18px;
+                }
+              }
+
+              .frame40 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 14px;
+                margin-right: 238px;
+
+                .frame38 {
+                  display: inline-flex;
+                  flex-shrink: 0;
+                  align-items: center;
+                  justify-content: center;
+                  column-gap: 4px;
+                  border-radius: 60px;
+                  padding: 12px 24px;
+
+                  .industryExperience {
+                    flex-shrink: 0;
+                    background: linear-gradient(
+                      90deg,
+                      var(--Pinkeuu, #ef4476) 0%,
+                      #ffffff 100%
+                    );
+                    background-clip: text;
+                    line-height: 24px;
+                    letter-spacing: 0;
+                    color: transparent;
+                    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    -webkit-background-clip: text;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .desktop6 {
+    display: flex;
+    position: relative;
+    flex-shrink: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    justify-content: space-between;
+    background: var(--Black, #070707);
+    padding: 318px 80px 80px;
+    height: 1141px;
+    overflow: hidden;
+
+    .autoWrapper5 {
+      position: absolute;
+      top: 80px;
+      left: 291px;
+      width: 1212px;
+      height: 1075px;
+
+      .vector44 {
+        position: absolute;
+        top: 45px;
+        left: 256px;
+        width: 956px;
+        height: 1030px;
+        rotate: 34deg;
+        filter: blur(58px);
+      }
+
+      .frame1321315813 {
+        display: flex;
+        position: absolute;
+        top: 0;
+        left: 0;
+        flex-direction: column;
+        align-items: center;
+        width: 859px;
+        height: 178px;
+        row-gap: 24px;
+
+        .frame39 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 8px;
+          margin-right: 355px;
+          margin-left: 355px;
+          border-radius: 56px;
+          box-shadow: inset 0px 0px 4px 1px #ffffff24;
+          background: #ffffff1f;
+          padding: 8px 24px;
+          overflow: hidden;
+          backdrop-filter: blur(2px);
+        }
+
+        .caseStudiesAchieveme {
+          flex-shrink: 0;
+          align-self: stretch;
+          width: 859px;
+          text-align: center;
+          line-height: 56px;
+          letter-spacing: 0;
+          color: #000000;
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 48px;
+          font-weight: 600;
+        }
+      }
+    }
+
+    .autoWrapper6 {
+      display: flex;
+      position: relative;
+      align-items: flex-start;
+      align-self: stretch;
+      justify-content: space-between;
+
+      .workTogether20241202 {
+        flex-shrink: 0;
+        border-radius: 12px;
+        width: 382px;
+        height: 271px;
+      }
+
+      .frame60 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        row-gap: 12px;
+
+        .transformingOperatio {
+          flex-shrink: 0;
+          align-self: stretch;
+          width: 382px;
+          line-height: 32px;
+          letter-spacing: 0;
+          color: var(--White, #ffffff);
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 24px;
+          font-weight: 500;
+        }
+
+        .discoverHowOurStrate {
+          flex-shrink: 0;
+          align-self: stretch;
+          width: 382px;
+          line-height: 20px;
+          letter-spacing: 0;
+          color: var(--White, #ffffff);
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 14px;
+        }
+      }
+
+      .frame65 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        border: 1px solid var(--White, #ffffff);
+        border-radius: 12px;
+        background: #ffffff38;
+        padding: 14px;
+        row-gap: 32px;
+        backdrop-filter: blur(6px);
+      }
+
+      .frame63 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 74px;
+        border: 1px solid var(--White, #ffffff);
+        border-radius: 12px;
+        background: #ffffff38;
+        padding: 14px;
+        row-gap: 32px;
+        backdrop-filter: blur(6px);
+
+        .handshakeGestureYoun {
+          flex-shrink: 0;
+          border-radius: 12px;
+          width: 382px;
+          height: 425px;
+        }
+      }
+
+      .frame64 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        margin-top: 296px;
+        border: 1px solid var(--White, #ffffff);
+        border-radius: 12px;
+        background: #ffffff38;
+        padding: 14px;
+        row-gap: 32px;
+        backdrop-filter: blur(6px);
+      }
+    }
+  }
+
+  .desktop121 {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    flex-shrink: 0;
+    align-items: center;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    padding: 80px 79px 80px 78px;
+    overflow: hidden;
+
+    .vector45 {
+      position: absolute;
+      top: -144px;
+      left: -150px;
+      width: 1371px;
+      height: 1419px;
+      rotate: -111deg;
+      filter: blur(58px);
+    }
+
+    .autoWrapper7 {
+      display: flex;
+      position: relative;
+      flex-direction: column;
+      align-items: center;
+      align-self: stretch;
+      padding-right: 0;
+      padding-left: 0;
+
+      .frame1321315767 {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        align-self: stretch;
+        margin-right: 251px;
+        margin-left: 251px;
+        row-gap: 24px;
+
+        .frame310 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 8px;
+          margin-right: 321px;
+          margin-left: 321px;
+          border-radius: 56px;
+          box-shadow: inset 0px 0px 4px 1px #ffffff24;
+          background: #ffffff1f;
+          padding: 8px 24px;
+          overflow: hidden;
+          backdrop-filter: blur(2px);
+        }
+
+        .stayInformedGainKnow {
+          flex-shrink: 0;
+          width: 781px;
+          text-align: center;
+          line-height: 56px;
+          letter-spacing: 0;
+          color: #000000;
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 48px;
+          font-weight: 600;
+        }
+
+        .frame1321315768 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          column-gap: 12px;
+          border: 1px solid var(--White, #ffffff);
+          border-radius: 12px;
+          background: #ffffff1f;
+          padding: 13px;
+          width: 461px;
+          backdrop-filter: blur(10px);
+
+          .whatDoYouWantToKnow {
+            flex-shrink: 0;
+            line-height: 24px;
+            letter-spacing: 0;
+            color: #ffffff;
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 16px;
+          }
+        }
+      }
+
+      .frame1321315740 {
+        display: flex;
+        align-items: flex-start;
+        align-self: stretch;
+        justify-content: space-between;
+        margin-top: 60px;
+        min-width: 1283px;
+
+        .frame1104 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          column-gap: 8px;
+          border: 1px solid var(--White, #ffffff);
+          border-radius: 40px;
+          box-shadow: inset 0px 0px 4px 2px #ffffff1a;
+          background: #ffffff1f;
+          padding: 4px 14px;
+          overflow: hidden;
+          backdrop-filter: blur(8px);
+
+          .businessTips {
+            flex-shrink: 0;
+            line-height: 16px;
+            letter-spacing: 0;
+            color: var(--White, #ffffff);
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 12px;
+          }
+        }
+
+        .frame1321315739 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          row-gap: 24px;
+
+          .portraitOfExcitedFun {
+            flex-shrink: 0;
+            border-radius: 12px;
+            width: 628px;
+            height: 618px;
+          }
+
+          .frame1321315738 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            row-gap: 24px;
+
+            .frame1321315654 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 12px;
+              margin-right: 425px;
+
+              .ellipse16 {
+                flex-shrink: 0;
+                border-radius: 50%;
+                width: 60px;
+                height: 60px;
+              }
+
+              .frame1321315653 {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                align-items: flex-start;
+                row-gap: 8px;
+
+                .brooklynSimmons {
+                  flex-shrink: 0;
+                  align-self: stretch;
+                  line-height: 24px;
+                  letter-spacing: 0;
+                  color: var(--White, #ffffff);
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 16px;
+                  font-weight: 500;
+                }
+              }
+            }
+
+            .frame1321315655 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              row-gap: 24px;
+
+              .futureProofingYourBu {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 628px;
+                line-height: 40px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 32px;
+                font-weight: 500;
+              }
+
+              .exploreKeyStrategies {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 628px;
+                line-height: 16px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 12px;
+              }
+
+              .frame1321315652 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+                margin-right: 431px;
+              }
+            }
+          }
+        }
+
+        .frame1321315662 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: center;
+          row-gap: 24px;
+
+          .frame1321315658 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            column-gap: 24px;
+            border: 1px solid var(--White, #ffffff);
+            border-radius: 12px;
+            background: #ffffff1f;
+            padding: 14px;
+            backdrop-filter: blur(12px);
+
+            .twoBusinessPeopleWor {
+              flex-shrink: 0;
+              border-radius: 12px;
+              width: 246px;
+              height: 182px;
+            }
+
+            .frame13213156572 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              row-gap: 32px;
+
+              .frame1321315656 {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                align-items: flex-end;
+                align-self: stretch;
+                row-gap: 14px;
+
+                .thePowerOfDataDriven {
+                  flex-shrink: 0;
+                  align-self: stretch;
+                  width: 355px;
+                  line-height: 32px;
+                  letter-spacing: 0;
+                  color: var(--White, #ffffff);
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 24px;
+                  font-weight: 500;
+                }
+
+                .exploreKeyStrategies2 {
+                  flex-shrink: 0;
+                  align-self: stretch;
+                  width: 355px;
+                  line-height: 16px;
+                  letter-spacing: 0;
+                  color: var(--White, #ffffff);
+                  font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                  font-size: 12px;
+                }
+              }
+
+              .frame1321315657 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+                margin-right: 158px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .desktop16 {
+    position: relative;
+    flex-shrink: 0;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    height: 1318px;
+    overflow: hidden;
+
+    .vector46 {
+      position: absolute;
+      top: 129px;
+      left: 343px;
+      width: 1371px;
+      height: 1419px;
+      rotate: 26deg;
+      filter: blur(58px);
+    }
+
+    .frame13213157402 {
+      display: flex;
+      position: absolute;
+      top: 68px;
+      left: 160px;
+      flex-direction: column;
+      align-items: center;
+      width: 1120px;
+      height: 1182px;
+      row-gap: 60px;
+
+      .frame1321315732 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        margin-right: 148px;
+        margin-left: 148px;
+        row-gap: 24px;
+
+        .frame311 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 8px;
+          margin-right: 343px;
+          margin-left: 343px;
+          border-radius: 56px;
+          box-shadow: inset 0px 0px 4px 1px #ffffff24;
+          background: #ffffff1f;
+          padding: 8px 24px;
+          overflow: hidden;
+          backdrop-filter: blur(2px);
+        }
+      }
+
+      .frame1321315814 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: flex-start;
+        align-self: stretch;
+        row-gap: 24px;
+
+        .frame1321315737 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+          border: 1px solid var(--White, #ffffff);
+          border-radius: 12px;
+          box-shadow: inset 4px 4px 12px 0px #ffffff66;
+          background: #ffffffb8;
+          padding: 23px;
+          backdrop-filter: blur(8px);
+
+          .frame1321315735 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            row-gap: 24px;
+
+            .frame1321315603 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              row-gap: 12px;
+
+              .enterprisePlan {
+                flex-shrink: 0;
+                align-self: stretch;
+                line-height: 40px;
+                letter-spacing: 0;
+                color: var(--Black, #070707);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 32px;
+                font-weight: 600;
+              }
+
+              .perfectForStartupsAn {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 500px;
+                line-height: 24px;
+                letter-spacing: 0;
+                color: var(--Black, #070707);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 16px;
+              }
+            }
+
+            .frame1450 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              justify-content: center;
+              column-gap: 12px;
+              margin-right: 246px;
+
+              .a20000 {
+                flex-shrink: 0;
+                background: linear-gradient(
+                  90deg,
+                  #873ae3 0%,
+                  #ef4476 42.83%,
+                  #f57c3c 100%
+                );
+                background-clip: text;
+                line-height: 56px;
+                letter-spacing: 0;
+                color: transparent;
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 48px;
+                font-weight: 600;
+                -webkit-background-clip: text;
+              }
+            }
+          }
+
+          .autoWrapper8 {
+            position: relative;
+            flex-shrink: 0;
+            width: 1px;
+            height: 276px;
+
+            .line5 {
+              position: absolute;
+              top: 138px;
+              left: -138px;
+              background: #ffffff;
+              width: 276px;
+              height: 1px;
+              rotate: 90deg;
+            }
+          }
+
+          .frame1321315736 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-end;
+            row-gap: 22px;
+
+            .frame53 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              justify-content: space-between;
+              border-radius: 40px;
+              background: var(--Pinkeuu, #ef4476);
+              padding: 16px 40px;
+            }
+
+            .frame1321315605 {
+              display: inline-flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              margin-left: 11px;
+              border-radius: 24px;
+              row-gap: 12px;
+
+              .idealForStartupsAndS {
+                flex-shrink: 0;
+                line-height: 20px;
+                letter-spacing: 0;
+                color: var(--Black, #070707);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 14px;
+              }
+
+              .frame1440 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+              }
+
+              .frame1441 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+                margin-right: 70px;
+              }
+
+              .frame1442 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+                margin-right: 65px;
+              }
+
+              .frame1447 {
+                display: inline-flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+                margin-right: 32px;
+              }
+
+              .frame1446 {
+                display: flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                column-gap: 12px;
+              }
+            }
+          }
+        }
+
+        .frame13213157382 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 24px;
+
+          .a6000 {
+            flex-shrink: 0;
+            line-height: 56px;
+            letter-spacing: 0;
+            color: var(--White, #ffffff);
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 48px;
+            font-weight: 600;
+          }
+
+          .frame54 {
+            display: flex;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            justify-content: space-between;
+            border-radius: 40px;
+            background: var(--Black, #070707);
+            padding: 16px 40px;
+          }
+
+          .frame13213156032 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            row-gap: 12px;
+
+            .starterPlan {
+              flex-shrink: 0;
+              align-self: stretch;
+              line-height: 40px;
+              letter-spacing: 0;
+              color: var(--White, #ffffff);
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 32px;
+              font-weight: 600;
+            }
+
+            .perfectForStartupsAn2 {
+              flex-shrink: 0;
+              align-self: stretch;
+              width: 500px;
+              line-height: 24px;
+              letter-spacing: 0;
+              color: var(--White, #ffffff);
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 16px;
+            }
+          }
+
+          .frame1321315604 {
+            display: inline-flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            align-self: stretch;
+            margin-right: 11px;
+            border-radius: 24px;
+            row-gap: 12px;
+
+            .idealForStartupsAndS2 {
+              flex-shrink: 0;
+              line-height: 20px;
+              letter-spacing: 0;
+              color: var(--White, #ffffff);
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 14px;
+            }
+
+            .frame14402 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 12px;
+            }
+
+            .frame14412 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 12px;
+              margin-right: 70px;
+            }
+
+            .frame14422 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 12px;
+              margin-right: 65px;
+            }
+
+            .frame14472 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 12px;
+              margin-right: 32px;
+            }
+
+            .frame14462 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              column-gap: 12px;
+            }
+          }
+
+          .frame1321315607 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            border: 1px solid var(--White, #ffffff);
+            border-radius: 12px;
+            background: #ffffff38;
+            padding: 23px;
+            row-gap: 24px;
+            backdrop-filter: blur(8px);
+
+            .group2 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: flex-start;
+              align-self: stretch;
+              justify-content: space-between;
+              margin-right: 452px;
+              border-radius: 12px;
+              padding: 15px;
+              min-width: 48px;
+              background-image: linear-gradient(
+                207.21deg,
+                #ffffff 16.98%,
+                #394149 140.49%
+              );
+
+              .path {
+                margin-top: 11px;
+                width: 4px;
+                height: 7px;
+                rotate: 180deg;
+              }
+
+              .path2 {
+                margin-top: 6px;
+                width: 4px;
+                height: 12px;
+                rotate: 180deg;
+              }
+
+              .path3 {
+                width: 4px;
+                height: 18px;
+                rotate: 180deg;
+              }
+            }
+
+            .frame14502 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              justify-content: center;
+              column-gap: 12px;
+              margin-right: 275px;
+            }
+          }
+
+          .frame1321315734 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            border: 1px solid var(--White, #ffffff);
+            border-radius: 12px;
+            background: #ffffff38;
+            padding: 23px;
+            row-gap: 24px;
+            backdrop-filter: blur(8px);
+
+            .businessProductsInte3 {
+              display: flex;
+              flex-shrink: 0;
+              align-items: center;
+              justify-content: center;
+              column-gap: 4px;
+              border-radius: 12px;
+              box-shadow: inset 0px 0px 4px 1px #000000b2;
+              width: 48px;
+              height: 48px;
+              overflow: hidden;
+              background-image: linear-gradient(
+                207.21deg,
+                #ffffff 16.98%,
+                #394149 140.49%
+              );
+            }
+
+            .frame14503 {
+              display: inline-flex;
+              flex-shrink: 0;
+              align-items: center;
+              align-self: stretch;
+              justify-content: center;
+              column-gap: 12px;
+              margin-right: 256px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .desktop10 {
+    display: flex;
+    position: relative;
+    flex-shrink: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    overflow: hidden;
+
+    .vector6 {
+      position: absolute;
+      top: -11px;
+      left: -186px;
+      width: 1008px;
+      height: 1086px;
+      rotate: -104deg;
+      filter: blur(58px);
+    }
+
+    .autoWrapper11 {
+      display: flex;
+      position: relative;
+      align-items: flex-start;
+      align-self: stretch;
+      justify-content: space-between;
+      margin-left: -256px;
+
+      .portraitOfSmilingBus {
+        margin-top: 229px;
+        border-radius: 12px;
+        width: 470px;
+        height: 576px;
+      }
+
+      .autoWrapper10 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-self: stretch;
+
+        .frame1112 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          align-self: stretch;
+          margin-right: 70px;
+          margin-left: 70px;
+          row-gap: 15px;
+
+          .frame312 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            align-self: stretch;
+            column-gap: 8px;
+            margin-right: 328px;
+            margin-left: 328px;
+            border-radius: 56px;
+            box-shadow: inset 0px 0px 4px 1px #ffffff24;
+            background: #ffffff1f;
+            padding: 8px 24px;
+            overflow: hidden;
+            backdrop-filter: blur(2px);
+          }
+        }
+
+        .autoWrapper9 {
+          display: flex;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+          margin-top: 60px;
+          padding-right: 0;
+          padding-left: 0;
+
+          .smilingYoungBusiness {
+            display: flex;
+            align-items: flex-start;
+            border-radius: 12px;
+            padding: 366px 12px 14px 16px;
+            background-image: url(../image/mjjixc3w-khw4pq8.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+
+            .frame1115 {
+              display: flex;
+              flex-direction: column;
+              flex-grow: 1;
+              align-items: flex-start;
+              justify-content: space-between;
+              border-radius: 12px;
+              background: var(--Black, #070707);
+              padding: 14px;
+              width: 442px;
+              min-width: 442px;
+              height: 196px;
+
+              .frame1114 {
+                display: flex;
+                flex-shrink: 0;
+                align-items: center;
+                align-self: stretch;
+                justify-content: space-between;
+
+                .frame1113 {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  align-items: flex-start;
+                  row-gap: 4px;
+
+                  .chiefStrategyOfficer {
+                    flex-shrink: 0;
+                    align-self: stretch;
+                    line-height: 20px;
+                    letter-spacing: 0;
+                    color: var(--White, #ffffff);
+                    font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                    font-size: 14px;
+                  }
+                }
+
+                .arrowsDiagramsArrow {
+                  flex-shrink: 0;
+                  border-radius: 32px;
+                  width: 48px;
+                  height: 48px;
+                }
+              }
+
+              .isExpertiseInStrateg {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 414px;
+                line-height: 20px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 14px;
+              }
+            }
+          }
+
+          .successfulLeader2023 {
+            border-radius: 12px;
+            width: 470px;
+            height: 576px;
+          }
+        }
+
+        .frame1116 {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          column-gap: 12px;
+          margin-top: 40px;
+          border-radius: 64px;
+          background: var(--Pinkeuu, #ef4476);
+          padding: 16px 20px;
+          width: 200px;
+        }
+      }
+    }
+  }
+
+  .frame1321315816 {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    align-self: stretch;
+    justify-content: space-between;
+    background: var(--Black, #070707);
+    padding-right: 80px;
+    padding-left: 80px;
+    min-width: 1440px;
+    height: 1024px;
+
+    .frame1321315815 {
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      align-items: flex-start;
+      row-gap: 24px;
+
+      .frame43 {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        column-gap: 8px;
+        margin-right: 479px;
+        border-radius: 56px;
+        box-shadow: inset 0px 0px 4px 1px #ffffff24;
+        background: #ffffff1f;
+        padding: 8px 24px;
+        overflow: hidden;
+        backdrop-filter: blur(2px);
+      }
+
+      .frame59 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: flex-start;
+        align-self: stretch;
+        row-gap: 89px;
+
+        .frame58 {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          align-self: stretch;
+          row-gap: 24px;
+
+          .realSuccessStoriesFr {
+            flex-shrink: 0;
+            align-self: stretch;
+            width: 617px;
+            line-height: 56px;
+            letter-spacing: 0;
+            color: #000000;
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 48px;
+            font-weight: 600;
+          }
+
+          .discoverHowOurExpert {
+            flex-shrink: 0;
+            align-self: stretch;
+            width: 617px;
+            line-height: 24px;
+            letter-spacing: 0;
+            color: var(--White, #ffffff);
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 16px;
+          }
+        }
+
+        .frame57 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 54px;
+          margin-right: 29px;
+
+          .frame55 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            align-items: flex-start;
+            row-gap: 14px;
+
+            .a10 {
+              flex-shrink: 0;
+              align-self: stretch;
+              background: linear-gradient(
+                90deg,
+                #873ae3 0%,
+                #ef4476 42.83%,
+                #f57c3c 100%
+              );
+              background-clip: text;
+              line-height: 72px;
+              letter-spacing: 0;
+              color: transparent;
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 64px;
+              font-weight: 600;
+              -webkit-background-clip: text;
+            }
+
+            .yearsOfIndustryExper {
+              flex-shrink: 0;
+              align-self: stretch;
+              width: 160px;
+              line-height: 26px;
+              letter-spacing: 0;
+              color: var(--White, #ffffff);
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 18px;
+            }
+          }
+        }
+      }
+    }
+
+    .group368 {
+      position: relative;
+      flex-shrink: 0;
+      width: 622px;
+      height: 634px;
+
+      .rectangle8 {
+        position: absolute;
+        top: 26px;
+        left: 28px;
+        border-radius: 24px;
+        width: 554px;
+        height: 581px;
+        rotate: -6deg;
+        background-image: linear-gradient(
+          291.56deg,
+          #873ae3 13.39%,
+          #ef4476 42.95%,
+          #f57c3c 82.4%
+        );
+      }
+
+      .frame532 {
+        display: flex;
+        position: absolute;
+        top: 6px;
+        left: 37px;
+        flex-direction: column;
+        align-items: flex-start;
+        border-radius: 24px;
+        background: var(--Linear-Rainbow);
+        padding: 168px 24px 32px;
+        width: 585px;
+        height: 622px;
+        row-gap: 92px;
+        background-image: linear-gradient(
+          90deg,
+          #873ae3 0%,
+          #ef4476 42.83%,
+          #f57c3c 100%
+        );
+        backdrop-filter: blur(14px);
+
+        .workingWithThisConsu {
+          flex-shrink: 0;
+          align-self: stretch;
+          width: 537px;
+          line-height: 32px;
+          letter-spacing: 0;
+          color: var(--White, #ffffff);
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 24px;
+          font-weight: 500;
+        }
+
+        .frame51 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+          border-width: 1px 0px 0px;
+          border-style: solid;
+          border-color: var(--White, #ffffff);
+          padding-top: 23px;
+          padding-bottom: 24px;
+
+          .frame49 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            column-gap: 12px;
+
+            .ellipse2 {
+              flex-shrink: 0;
+              border-radius: 50%;
+              width: 52px;
+              height: 52px;
+            }
+
+            .frame48 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              row-gap: 8px;
+
+              .michaelCarter2 {
+                flex-shrink: 0;
+                align-self: stretch;
+                line-height: 26px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 18px;
+                font-weight: 500;
+              }
+
+              .cEoOfGrowthEdgeSolut {
+                flex-shrink: 0;
+                align-self: stretch;
+                line-height: 24px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 16px;
+              }
+            }
+          }
+
+          .frame50 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: flex-start;
+            column-gap: 8px;
+
+            .arrowsDiagramsArrow2 {
+              flex-shrink: 0;
+              border-radius: 38px;
+              width: 38px;
+              height: 38px;
+            }
+
+            .autoWrapper12 {
+              position: relative;
+              flex-shrink: 0;
+              width: 38px;
+              height: 38px;
+
+              .arrowsDiagramsArrow3 {
+                position: absolute;
+                top: -1px;
+                left: -1px;
+                border-radius: 38px;
+                width: 38px;
+                height: 38px;
+                rotate: -180deg;
+              }
+            }
+          }
+        }
+
+        .a {
+          position: absolute;
+          top: 4px;
+          left: 4px;
+          flex-shrink: 0;
+          width: 118px;
+          height: 326px;
+          line-height: 326px;
+          letter-spacing: -5.44px;
+          color: var(--White, #ffffff);
+          font-family: "Inclusive Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 272px;
+        }
+      }
+    }
+  }
+
+  .desktop122 {
+    position: relative;
+    flex-shrink: 0;
+    background: var(--Black, #070707);
+    width: 1440px;
+    height: 1107px;
+    overflow: hidden;
+
+    .vector47 {
+      position: absolute;
+      top: -176px;
+      left: -313px;
+      width: 1371px;
+      height: 1419px;
+      rotate: -120deg;
+      filter: blur(58px);
+    }
+
+    .frame1321315759 {
+      display: flex;
+      position: absolute;
+      top: 73px;
+      left: 180px;
+      flex-direction: column;
+      align-items: center;
+      width: 1080px;
+      height: 961px;
+      row-gap: 60px;
+
+      .frame1321315744 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        justify-content: center;
+        margin-right: 128px;
+        margin-left: 128px;
+        row-gap: 15px;
+
+        .frame44 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 8px;
+          margin-right: 372px;
+          margin-left: 372px;
+          border-radius: 56px;
+          box-shadow: inset 0px 0px 4px 1px #ffffff24;
+          background: #ffffff1f;
+          padding: 8px 24px;
+          overflow: hidden;
+          backdrop-filter: blur(2px);
+        }
+      }
+
+      .frame1321315758 {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        align-items: flex-end;
+        align-self: stretch;
+        row-gap: 24px;
+
+        .arrowsDiagramsArrow4 {
+          flex-shrink: 0;
+          border-radius: 36px;
+          width: 48px;
+          height: 48px;
+        }
+
+        .a012 {
+          flex-shrink: 0;
+          line-height: 48px;
+          letter-spacing: 0;
+          color: var(--White, #ffffff);
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 40px;
+          font-weight: 500;
+        }
+
+        .frame1321315751 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+          border: 1px solid var(--White, #ffffff);
+          border-radius: 12px;
+          background: #ffffff38;
+          padding: 24px;
+          backdrop-filter: blur(8px);
+
+          .frame1321315750 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            column-gap: 60px;
+
+            .frame1321315749 {
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              align-items: flex-start;
+              row-gap: 14px;
+
+              .weAnalyzeYourBusines {
+                flex-shrink: 0;
+                align-self: stretch;
+                width: 706px;
+                line-height: 20px;
+                letter-spacing: 0;
+                color: var(--White, #ffffff);
+                font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+                font-size: 14px;
+              }
+            }
+          }
+        }
+
+        .frame1321315752 {
+          display: flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          justify-content: space-between;
+          border: 1px solid var(--White, #ffffff);
+          border-radius: 12px;
+          background: #ffffff38;
+          padding: 24px;
+          backdrop-filter: blur(8px);
+
+          .frame13213157502 {
+            display: inline-flex;
+            flex-shrink: 0;
+            align-items: center;
+            column-gap: 60px;
+
+            .howCanYourConsulting {
+              flex-shrink: 0;
+              width: 706px;
+              line-height: 32px;
+              letter-spacing: 0;
+              color: var(--White, #ffffff);
+              font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+              font-size: 24px;
+              font-weight: 500;
+            }
+          }
+        }
+      }
+
+      .frame56 {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        align-self: stretch;
+        column-gap: 12px;
+        margin-right: 464px;
+        margin-left: 464px;
+        border-radius: 64px;
+        background: var(--Pinkeuu, #ef4476);
+        padding: 16px 20px;
+      }
+    }
+  }
+
+  .desktop7 {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    background: var(--Black, #070707);
+    padding: 32px 32px 73px;
+    overflow: hidden;
+
+    .frame66 {
+      position: relative;
+      background: #000000;
+      width: 1376px;
+      height: 531px;
+      overflow: hidden;
+
+      .group3672 {
+        display: flex;
+        position: absolute;
+        top: -49px;
+        left: -119px;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 171px 875px 241px 167px;
+        width: 1730px;
+        height: 682px;
+        background-image: url(../image/mjjixc2l-qghfelb.svg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: drop-shadow(0px 4px 4px #00000040);
+
+        .unlockYourBusinessPo {
+          width: 688px;
+          line-height: 56px;
+          letter-spacing: 0;
+          color: #000000;
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 48px;
+          font-weight: 600;
+        }
+
+        .frame6 {
+          display: inline-flex;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 12px;
+          margin-top: 44px;
+          margin-right: 455px;
+          border-radius: 64px;
+          background: var(--Pinkeuu, #ef4476);
+          padding: 16px 20px;
+        }
+      }
+
+      .rectangle12 {
+        position: absolute;
+        top: 79px;
+        left: 814px;
+        border-radius: 24px;
+        width: 268px;
+        height: 268px;
+        rotate: 25deg;
+        background-image: linear-gradient(
+          92.39deg,
+          #f57c3c 12.06%,
+          #ef4476 69.21%
+        );
+        filter: blur(22px);
+      }
+
+      .rectangle14 {
+        position: absolute;
+        top: 331px;
+        left: 1051px;
+        border-radius: 24px;
+        width: 268px;
+        height: 268px;
+        rotate: 25deg;
+        background-image: linear-gradient(
+          92.39deg,
+          #873ae3 12.06%,
+          #ef4476 69.21%
+        );
+        filter: blur(22px);
+      }
+    }
+
+    .autoWrapper13 {
+      display: flex;
+      align-items: flex-start;
+      align-self: stretch;
+      justify-content: space-between;
+      margin-top: 102px;
+      padding-right: 54px;
+      padding-left: 48px;
+
+      .frame1100 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 4px;
+        row-gap: 24px;
+
+        .frame142 {
+          display: inline-flex;
+          flex-shrink: 0;
+          align-items: center;
+          align-self: stretch;
+          column-gap: 8px;
+          margin-right: 117px;
+
+          .logo6 {
+            flex-shrink: 0;
+            width: 47px;
+            height: 18px;
+            overflow: hidden;
+          }
+        }
+
+        .strategicConsultingT4 {
+          flex-shrink: 0;
+          align-self: stretch;
+          width: 240px;
+          line-height: 24px;
+          letter-spacing: 0;
+          color: var(--White, #ffffff);
+          font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+          font-size: 16px;
+          font-weight: 500;
+        }
+      }
+
+      .frame1099 {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        width: 720px;
+        min-width: 720px;
+
+        .frame80 {
+          display: inline-flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          align-items: flex-start;
+          row-gap: 14px;
+
+          .home2 {
+            flex-shrink: 0;
+            line-height: 32px;
+            letter-spacing: 0;
+            color: var(--White, #ffffff);
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 24px;
+            font-weight: 500;
+          }
+
+          .visionMission {
+            flex-shrink: 0;
+            line-height: 20px;
+            letter-spacing: 0;
+            color: var(--White, #ffffff);
+            font-family: "Inter Tight", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimHei, Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+          }
+        }
+      }
+    }
+
+    .frame1095 {
+      display: inline-flex;
+      align-items: center;
+      align-self: stretch;
+      column-gap: 8px;
+      margin: 60px 1094px 0px 39px;
+
+      .vuesaxLinearCopyrigh {
+        flex-shrink: 0;
+        width: 18px;
+        height: 18px;
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_16046_2484)">
+<g clip-path="url(#clip0_16046_2484)">
+<rect width="32" height="32" rx="16" fill="url(#paint0_linear_16046_2484)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.157 16.623C3.94767 16.235 3.94767 15.7643 4.157 15.3763C6.67967 10.711 11.3397 6.66699 15.9997 6.66699C20.6597 6.66699 25.3197 10.711 27.8423 15.3777C28.0517 15.7657 28.0517 16.2363 27.8423 16.6243C25.3197 21.2897 20.6597 25.3337 15.9997 25.3337C11.3397 25.3337 6.67967 21.2897 4.157 16.623Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.7725 12.2291C21.8553 14.3119 21.8553 17.6888 19.7725 19.7716C17.6897 21.8544 14.3129 21.8544 12.2301 19.7716C10.1473 17.6888 10.1473 14.3119 12.2301 12.2291C14.3129 10.1463 17.6897 10.1463 19.7725 12.2291" stroke="white" stroke-width="1.9048" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 16L16 12L12 16L14.6667 16V29.3333H17.3333V16L20 16Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_i_16046_2484" x="0" y="0" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="1.33333" operator="erode" in="SourceAlpha" result="effect1_innerShadow_16046_2484"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.33333"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_16046_2484"/>
+</filter>
+<linearGradient id="paint0_linear_16046_2484" x1="0" y1="16" x2="32" y2="16" gradientUnits="userSpaceOnUse">
+<stop stop-color="#873AE3"/>
+<stop offset="0.428345" stop-color="#EF4476"/>
+<stop offset="1" stop-color="#F57C3C"/>
+</linearGradient>
+<clipPath id="clip0_16046_2484">
+<rect width="32" height="32" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
