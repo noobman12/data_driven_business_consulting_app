@@ -20,7 +20,7 @@ const Hero = () => {
 
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-[1.1] max-w-5xl tracking-tight">
           Strategic Consulting to <br />
-          <span className="text-gradient">Elevate Your Business to Success</span>
+          <span className="text-[#ef4476]">Elevate Your Business to Success</span>
         </h1>
 
         <p className="text-lg md:text-xl text-gray-400 max-w-3xl mb-10 leading-relaxed font-light">
